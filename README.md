@@ -80,6 +80,6 @@ func main() {
 
 ## Limitations
 
-This implementation of API support only for administrator (for more information see [docs](https://yandex.ru/dev/pdd/doc/concepts/termin-docpage/))
+This implementation of API supports only for administrator (for more information see [docs](https://yandex.ru/dev/pdd/doc/concepts/termin-docpage/))
 
 
