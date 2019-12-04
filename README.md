@@ -9,8 +9,8 @@ https://yandex.ru/dev/pdd/doc/concepts/termin-docpage/
 ### Domains
 
 * Register domain
-* Status domain
-* Detail domain
+* Status of domain
+* Details of domain
 * Remove domain
 
 ### Emails
